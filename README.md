@@ -10,7 +10,7 @@ A combat-based strategy game developed as a collaborative group project that ble
 - Turn-based combat system based on round outcomes  
 - Animated card dealing and visual feedback using Turtle Graphics  
 - Player vs Dealer
-- Simple game state tracking (health, wins, losses)  
+- Simple game state tracking user and opponents health bar 
 
 ---
 
