@@ -16,13 +16,13 @@ A combat-based strategy game developed as a collaborative group project that ble
 
 🧠 Overview
 
-Blackjack Battle reimagines the traditional Blackjack card game by adding a combat layer where each round affects the outcome of a battle.
-Winning a round automatically returns the player to the start screen, while losing sends them to a battle scene against a robot opponent. 
+Blackjack Battle extends the traditional Blackjack card game with a combat component where each round affects the outcome of a battle.
+Winning a round automatically returns the player to the start screen, while losing moves the player into a battle scene against a robot opponent.
 In the battle scene, both the player and the robot start with 3 hearts. Each turn has a randomized outcome where the player attacks, 
 the robot attacks, both attack, or neither attacks. 
 
 By implementing Blackjack rules and game state management, our team created a player-versus-enemy battle system 
-featuring animated card dealing and responsive cutscenes developed entirely within Python’s Turtle Graphics import.
+featuring animated card dealing and responsive cutscenes developed entirely in Python with Turtle Graphics.
  
 ---
 
