@@ -53,5 +53,3 @@ featuring animated card dealing and responsive cutscenes developed entirely in P
 -Introduce new player abilities
 -Implement a win streak system where winning multiple rounds in a row triggers stronger opponents
 -Add a money system where players earn and lose currency, and going bankrupt sends them to the battle scene
-
----
